@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a17af974.css",
+    "main.js": "/static/js/main.83392cef.js",
+    "static/media/b1.png": "/static/media/b1.6c8e9f26280be169ee12.png",
+    "static/media/cc.png": "/static/media/cc.c59f16fff8e92758d7f5.png",
+    "static/media/bg2.jpg": "/static/media/bg2.7f78a8e960ae6801908d.jpg",
+    "static/media/bg.webp": "/static/media/bg.91afe1e154b090454ec7.webp",
+    "static/media/blood7.jpg": "/static/media/blood7.370bae48952513e68b6c.jpg",
+    "static/media/blood5.jpg": "/static/media/blood5.e5bb3ea93abf580b1e44.jpg",
+    "static/media/logo.png": "/static/media/logo.0d4ab46cbfdc0d4799f3.png",
+    "static/media/type4.png": "/static/media/type4.9006e443fd4041b86db1.png",
+    "static/media/type3.png": "/static/media/type3.d30953b47b5d27480a58.png",
+    "static/media/type2.png": "/static/media/type2.9875b83f90dec88f2756.png",
+    "static/media/g1.jpg": "/static/media/g1.857a338d7f6b7416b3a7.jpg",
+    "static/media/g2.jpg": "/static/media/g2.4c62805fe180d3626339.jpg",
+    "static/media/type1.png": "/static/media/type1.696b02369feb791d9b73.png",
+    "static/media/g3.jpg": "/static/media/g3.43f8df5cdd38824078fc.jpg",
+    "static/media/blood11.jpg": "/static/media/blood11.eacde21b3e51afe4066c.jpg",
+    "static/media/g4.jpg": "/static/media/g4.58c36a92204fa8018caf.jpg",
+    "static/media/donationFact.webp": "/static/media/donationFact.7fd5466a963e3a36cfee.webp",
+    "index.html": "/index.html",
+    "main.a17af974.css.map": "/static/css/main.a17af974.css.map",
+    "main.83392cef.js.map": "/static/js/main.83392cef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17af974.css",
+    "static/js/main.83392cef.js"
+  ]
+}
